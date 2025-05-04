@@ -1,24 +1,24 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "892269071721197569",
+    "smallImageText": "The Pirates Launcher",
+    "smallImageKey": "thepirates"
   },
   "servers": [
     {
       "id": "smp-1.16.5",
       "name": "DaPirates SMP",
       "description": "A Custom Forge Based Minecraft Modded SMP for the captains.",
-      "icon": null,
+      "icon": "https://server-files.dapirates.xyz/logo.png",
       "version": "1.0.0",
       "address": "mc.dapirates.xyz",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "shortId": "The Pirates SMP",
+        "largeImageText": "The Pirates SMP",
+        "largeImageKey": "thepirates"
       },
       "mainServer": true,
       "autoconnect": true,
