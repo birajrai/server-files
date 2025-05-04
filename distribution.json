@@ -406,11 +406,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 631207,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/CreativeCore_v2.2.1_mc1.16.5.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/CreativeCore_v2.2.1_mc1.16.5.jar",
             "MD5": "c32d3e1df267d820eb2b1b8e8adb75e1"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -419,12 +420,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14746751,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/DynamicSurroundings-1.16.5-4.0.5.0.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/DynamicSurroundings-1.16.5-4.0.5.0.jar",
             "MD5": "047b3dc132f9e591104af6a63c2ac2e3"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -447,11 +447,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3559283,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/geckolib-forge-1.16.5-3.0.106.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -470,11 +467,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61577,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/Iceberg-1.16.5-1.0.45.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/Iceberg-1.16.5-1.0.45.jar",
             "MD5": "ec502208377ca481a2e551b99e4cb050"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -516,11 +514,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5576490,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/repurposed_structures_forge-3.4.7+1.16.5.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/repurposed_structures_forge-3.4.7+1.16.5.jar",
             "MD5": "688901495495db2e324b127b5a6f171b"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -529,11 +528,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 615176,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/structuresplusII.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/structuresplusII.jar",
             "MD5": "5513ba8ffcb48fb770c4a7cf640fe04c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -574,6 +570,28 @@
             "size": 813360,
             "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.16.5.jar",
             "MD5": "b0a1cc84d260b79f73e4858d5405f992"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 6393,
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/files/servers.dat",
+            "MD5": "bedccd73ee5b698f5d05b08301eb3fd1",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/files/servers.dat_old",
+            "MD5": "d253aed5b15c5b27aeaec39194bd1f9b",
+            "path": "servers.dat_old"
           }
         }
       ]
