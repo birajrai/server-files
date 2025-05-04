@@ -1,0 +1,14 @@
+JVM info: Oracle Corporation - 17.0.12 - 17.0.12+8-LTS-286
+java.net.preferIPv4Stack=true
+Current Time: 04/05/2025 20:59:54
+Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: libraries.minecraft.net [13.107.246.48]
+Host: launchermeta.mojang.com [13.107.246.68]
+Host: piston-meta.mojang.com [13.107.246.68]
+Host: sessionserver.mojang.com [13.107.246.68]
+Host: authserver.mojang.com [Unknown]
+Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
+Extracting json
+Considering minecraft client jar
+  Downloading library from https://piston-data.mojang.com/v1/objects/37fd3c903861eeff3bc24b71eed48f828b5269c8/client.jar
