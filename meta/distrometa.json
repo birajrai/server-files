@@ -1,11 +1,11 @@
 {
   "$schema": "file:///C:/Users/biraj/Documents/GitHub/server-files/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "892269071721197569",
+      "smallImageText": "The Pirates Launcher",
+      "smallImageKey": "thepirates"
     }
   }
 }
