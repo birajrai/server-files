@@ -362,11 +362,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190902,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/AdvancementPlaques-1.16.5-1.4.1.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/AdvancementPlaques-1.16.5-1.4.1.jar",
             "MD5": "c9899fefdc3fd545b7452b6ad582cc80"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -375,11 +376,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18135643,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/alexsmobs-1.12.1.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/alexsmobs-1.12.1.jar",
             "MD5": "5f3cbbbdea79b8faa0ad0f5445587690"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -388,11 +386,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 482439,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/citadel-1.8.1-1.16.5.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/citadel-1.8.1-1.16.5.jar",
             "MD5": "9ee0682eec5d343c6238e30c21c98e69"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -401,11 +396,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3408898,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/ColdSweat-2.4-b02d.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/ColdSweat-2.4-b02d.jar",
             "MD5": "e8cbb6e749aee7379d6323e7cf42a8b5"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -427,11 +419,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14746751,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/DynamicSurroundings-1.16.5-4.0.5.0.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/DynamicSurroundings-1.16.5-4.0.5.0.jar",
             "MD5": "047b3dc132f9e591104af6a63c2ac2e3"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -440,24 +433,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3766759,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/EnhancedVisuals_v1.3.32_mc1.16.5.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionaloff/EnhancedVisuals_v1.3.32_mc1.16.5.jar",
             "MD5": "82d92340a5e10daf8d5619eba9ab9762"
           },
           "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:essential_1:3-5-12_forge_1-16-5@jar",
-          "name": "Essential_1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 53272374,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/essential_1-3-5-12_forge_1-16-5.jar",
-            "MD5": "8e944382101fe78e7681db7cc9f24921"
-          },
-          "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -479,11 +460,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21463531,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/iceandfire-2.1.12-1.16.5-patch-1.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/iceandfire-2.1.12-1.16.5-patch-1.jar",
             "MD5": "c9de9b4b6e91353fb37ecdb6660fda84"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -505,11 +483,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 816694,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/jei-1.16.5-7.8.0.1013.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1013.jar",
             "MD5": "e8f7591f7e0fa9880a4886af7f599ad8"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -518,11 +493,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13557419,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/mowziesmobs-1.5.27.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/mowziesmobs-1.5.27.jar",
             "MD5": "d22cdf578a2a167cd25747390d4bd39f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -570,11 +542,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 873546,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/TravelersBackpack-1.16.5-5.4.51.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/TravelersBackpack-1.16.5-5.4.51.jar",
             "MD5": "eab9a192f69e677ae3fca210919e1050"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -583,11 +552,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 375934,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/Waystones_1.16.5-7.6.4.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
             "MD5": "a73806ee8f30e26705503013a54a5961"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -596,11 +562,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1602496,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/Xaeros_Minimap_25.2.0_Forge_1.16.5.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/Xaeros_Minimap_25.2.0_Forge_1.16.5.jar",
             "MD5": "d8c2fd2cf2b2a9b28b13e11225761613"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -609,11 +572,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 813360,
-            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/optionalon/XaerosWorldMap_1.39.4_Forge_1.16.5.jar",
+            "url": "http://server-files.dapirates.xyz/servers/smp-1.16.5/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.16.5.jar",
             "MD5": "b0a1cc84d260b79f73e4858d5405f992"
-          },
-          "required": {
-            "value": false
           }
         }
       ]
