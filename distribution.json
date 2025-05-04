@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "smp-1.16.5",
-      "name": "smp (Minecraft 1.16.5)",
-      "description": "smp Running Minecraft 1.16.5 (Forge v36.2.34)",
+      "name": "DaPirates SMP",
+      "description": "A Custom Forge Based Minecraft Modded SMP for the captains.",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "mc.dapirates.xyz",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.34",
